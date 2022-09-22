@@ -1,0 +1,4 @@
+ERwin Property Ids,1075850516::User Formatted Name  [read only],0::Object Type  [read only],1073742126::Name,1075849176::Physical Name,1073742125::Definition,1075849148::Comments
+1075838979::158,Movie Rental Record,Table,Movie Rental Record,Movie Rental Record,A MOVIE RENTAL RECORD is a record that  is kept on every MOVIE in the STORE  on who and when a MOVIE is rented,A MOVIE RENTAL RECORD is a record that  is kept on every MOVIE in the STORE  on who and when a MOVIE is rented
+1075838979::742,Electronic Payment,Table,Electronic Payment,Electronic Payment,"It is electronic payment as PayPal, Zelle, PSE","It is electronic payment as PayPal, Zelle, PSE"
+1075838979::754,Subcriptions,Table,Subcriptions,Subcriptions,This are the subcriptions to the plataform and the movies include it,This are the subcriptions to the plataform and the movies include it
